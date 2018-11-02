@@ -1,9 +1,9 @@
 # Partner Development Practices
 
-##Frontend
+## Frontend
 
-##Backend
+## Backend
 
-##Datastores
+## Datastores
 
-##Code of conduct
+## Code of conduct
